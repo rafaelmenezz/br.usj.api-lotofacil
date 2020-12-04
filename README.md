@@ -13,3 +13,5 @@ __Alunos:__
 ### Especificações 
 
 Implementar uma aplicação VueJS que faz uma chamada a uma API com VueJS. 
+- Utilizada [API Lotoácil](https://apiloterias.com.br/) para o desenvolvimento.
+
